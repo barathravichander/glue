@@ -1,0 +1,17 @@
+{
+    "mappings": [{
+        "job_name": "mstar_comp_hld_nt",
+        "length": "2000",
+        "archive": ".",
+        "s3_source": "s3://br-unipruuat-unipru-app-us-east-1-s3/pr_ubsfi/outgoing/extracts/mstr_hold_nt/mstar_comp_hld_nt",
+        "sizeInMB": 5,
+        "brmf_destination": "BIOS.AIT.UAT.INP.PRU.MSTR2NT3",
+        "isGDG": true,
+        "snode": "ADPBPSQ",
+        "bros_destination": "",
+        "runtask": "",
+        "filetype": "",
+        "username": "AWSUAIT",
+        "password": "AWSUAIT1"
+    }]
+}

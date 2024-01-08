@@ -1,0 +1,17 @@
+{
+    "mappings": [{
+        "job_name": "act_prrpt_624",
+        "length": "2000",
+        "archive": ".",
+        "s3_source": "s3://br-unipruuat-unipru-app-us-east-1-s3/pr_ubsfi/outgoing/extracts/ODS/PKPS.S.KPSD624P.RTNREPT.DETL",
+        "sizeInMB": 5,
+        "brmf_destination": "BIOS.AIT.UAT.INP.PRU.ACTPRRPT",
+        "isGDG": true,
+        "snode": "ADPBPSQ",
+        "bros_destination": "",
+        "runtask": "",
+        "filetype": "",
+        "username": "AWSUAIT",
+        "password": "AWSUAIT1"
+    }]
+}

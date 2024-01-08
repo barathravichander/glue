@@ -1,0 +1,17 @@
+{
+    "mappings": [{
+        "job_name": "ben_sym_ror_mly",
+        "length": "2000",
+        "archive": ".",
+        "s3_source": "s3://br-unipruuat-unipru-app-us-east-1-s3/pr_ubsfi/outgoing/extracts/Monthly_symbol_info_ror/ben_sym_ror_mly",
+        "sizeInMB": 5,
+        "brmf_destination": "BIOS.AIT.UAT.INP.PRU.TLSTRORM",
+        "isGDG": true,
+        "snode": "ADPBPSQ",
+        "bros_destination": "",
+        "runtask": "",
+        "filetype": "",
+        "username": "AWSUAIT",
+        "password": "AWSUAIT1"
+    }]
+}

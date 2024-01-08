@@ -1,0 +1,17 @@
+{
+    "mappings": [{
+        "job_name": "fa_marketing_tool",
+        "length": "2000",
+        "archive": ".",
+        "s3_source": "s3://br-unipruuat-unipru-app-us-east-1-s3/pr_ubsfi/outgoing/extracts/fa_tool/fa_marketing_tool",
+        "sizeInMB": 5,
+        "brmf_destination": "BIOS.AIT.UAT.INP.PRU.MSTRMKTL",
+        "isGDG": true,
+        "snode": "ADPBPSQ",
+        "bros_destination": "",
+        "runtask": "",
+        "filetype": "",
+        "username": "AWSUAIT",
+        "password": "AWSUAIT1"
+    }]
+}

@@ -1,0 +1,17 @@
+{
+    "mappings": [{
+        "job_name": "fsheet_ben_perf_schd",
+        "length": "2000",
+        "archive": ".",
+        "s3_source": "s3://br-unipruuat-unipru-app-us-east-1-s3/pr_ubsfi/outgoing/extracts/fsheet_benperf_schd/fsheet_ben_perf_schd",
+        "sizeInMB": 5,
+        "brmf_destination": "BIOS.AIT.UAT.INP.PRU.FSHTBPSC",
+        "isGDG": true,
+        "snode": "ADPBPSQ",
+        "bros_destination": "",
+        "runtask": "",
+        "filetype": "",
+        "username": "AWSUAIT",
+        "password": "AWSUAIT1"
+    }]
+}
