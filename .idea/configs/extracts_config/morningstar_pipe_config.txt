@@ -1,8 +1,0 @@
-[metadata]
-input.location=pr_ubsfi/work/glue_work_files/extract/input/morningstar/
-output.location=pr_ubsfi/outgoing/extracts/
-output.file.name=data_extract_morningstar_new_12181
-header.present=False
-header.list=ubs_id,index_des,as_of_dt,mtd_return
-output.delimiter=|
-output.generate.fixed.len.file=False

@@ -1,0 +1,17 @@
+{
+    "mappings": [{
+        "job_name": "QPR_ELI_FIL",
+        "length": "",
+        "archive": ".",
+        "s3_source": "s3://br-uniprudev-unipru-app-us-east-1-s3/pr_ubsfi/outgoing/extracts/PMR/QPR_ELI_FIL/PKPS.S.KPSD820P.QPRELIG.DETL",
+        "sizeInMB": 5,
+        "brmf_destination": "",
+        "isGDG": true,
+        "snode": "UBSFIP1",
+        "bros_destination": "/apps/wmapfi/Q005/infa_shared/SrcFiles/inputlandingpad/pru/",
+        "runtask": "/apps/wmapfi/Q005/infa_shared/ShellScripts/ndmScripts/wmapfi_ndm_controlfile_gen_qprelig.sh",
+        "filetype": "",
+        "username": "ndmubsfi",
+        "password": "Welcome!"
+    }]
+}

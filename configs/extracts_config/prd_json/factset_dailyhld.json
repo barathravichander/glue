@@ -1,0 +1,17 @@
+{
+  "mappings": [{
+    "job_name": "factset_dailyhld",
+    "length": "",
+    "archive": ".",
+    "s3_source": "s3://br-unipruprd-unipru-app-us-east-1-s3/pr_ubsfi/outgoing/extracts/fset_daily_hld/factset_dailyhld.txt",
+    "sizeInMB": 5,
+    "brmf_destination": "",
+    "isGDG": true,
+    "snode": "UBSFIP1",
+    "bros_destination": "/apps/wmapfi/infa_shared/SrcFiles/inputlandingpad/pru/",
+    "runtask": "/apps/wmapfi/infa_shared/ShellScripts/ndmScripts/wmapfi_ndm_controlfile_gen_fset_dlyhld.sh",
+    "filetype": "",
+    "username": "ndmubsfi",
+    "password": "Welcome!"
+  }]
+}

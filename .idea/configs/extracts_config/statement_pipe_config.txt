@@ -1,8 +1,0 @@
-[metadata]
-input.location=pr_ubsfi/work/glue_work_files/extract/input/data_extract_statement_new_1210_comma.txt
-output.location=pr_ubsfi/work/glue_work_files/extract/output/
-output.file.name=data_extract_statement_new_1211
-header.present=False
-header.list=AsofDate,S&P500MTDReturn,S&P500YTDReturn,Russell3000MTDReturn,Russell3000YTDReturn,MSCI–EuropeAustralia&FarEastMTDReturn,MSCI–EuropeAustralia&FarEastYTDReturn,BarclaysCapitalAggregateBondIndex10+YearsMTDReturn,BarclaysCapitalAggregateBondIndex10+YearsYTDReturn,3monthTreasuryBillRate,OnemonthLIBORRate
-output.delimiter=|
-output.generate.fixed.len.file=False

@@ -1,0 +1,17 @@
+{
+    "mappings": [{
+        "job_name": "AF64_MTHLY_MVAL",
+        "length": "",
+        "archive": ".",
+        "s3_source": "s3://br-unipruuat-unipru-app-us-east-1-s3/pr_ubsfi/outgoing/extracts/fset_brd_ast_cls/AF64/AF64.MTHLY.MVAL.TXT",
+        "sizeInMB": 5,
+        "brmf_destination": "",
+        "isGDG": true,
+        "snode": "UBSFIQ1",
+        "bros_destination": "/apps/wmapfi/infa_shared/SrcFiles/inputlandingpad/pru/",
+        "runtask": "/apps/wmapfi/infa_shared/ShellScripts/ndmScripts/wmapfi_ndm_controlfile_gen_af64_monthly.sh",
+        "filetype": "",
+        "username": "ndmubsfi",
+        "password": "Welcome!"
+    }]
+}
